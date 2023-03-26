@@ -1855,4 +1855,4 @@ DBC = {
   CAR.NIRO_SG2_HEV: dbc_dict('hyundai_canfd', None),
   CAR.GENESIS_GV60: dbc_dict('hyundai_canfd', None),
   CAR.GENESIS_GV70: dbc_dict('hyundai_canfd', None),
-}
+} 
